@@ -1,0 +1,92 @@
+2026-05-23 21:02:47,872 - INFO - Iniciando processo de envio de emails
+2026-05-25 14:28:39,194 - INFO - Iniciando processo de envio de emails
+2026-05-25 14:28:58,424 - INFO - Iniciando processo de envio de emails
+2026-05-25 14:31:47,229 - INFO - Iniciando processo de envio de emails
+2026-05-25 14:31:52,870 - INFO - Email enviado com sucesso: gino@10PDC.com -> 10pdalycity report.pdf
+2026-05-25 14:31:57,220 - INFO - Email enviado com sucesso: alberttapia10p@gmail.com -> 10th Planet Sacramento report.pdf
+2026-05-25 14:32:01,459 - INFO - Email enviado com sucesso: j.jitzu@gmail.com -> 10th Planetjjcorona report.pdf
+2026-05-25 14:32:05,455 - INFO - Email enviado com sucesso: info@10thplanetsm.com -> 10th Planetsanmateo report.pdf
+2026-05-25 14:32:09,453 - INFO - Email enviado com sucesso: info@mg.allgroundjiujitsu.com -> Allgroundjiu Jitsu report.pdf
+2026-05-25 14:32:13,440 - INFO - Email enviado com sucesso: info@allianceJJsanmarcos.com -> Alliance Bjjsanmarcos report.pdf
+2026-05-25 14:32:17,772 - INFO - Email enviado com sucesso: INFO@ARESBJJROSEVILLE.COM -> Aresbjjroseville report.pdf
+2026-05-25 14:32:21,923 - INFO - Email enviado com sucesso: info@artemistemecula.com -> Artemistemecula report.pdf
+2026-05-25 14:32:26,587 - INFO - Email enviado com sucesso: batatabjj@gmail.com -> Batatabjj Academy report.pdf
+2026-05-25 14:32:30,884 - INFO - Email enviado com sucesso: info@bayjiujitsu.com -> Bayjiu Jitsu report.pdf
+2026-05-25 14:32:33,605 - ERROR - Erro ao enviar para beachcitiesjiujitsu.com: {'beachcitiesjiujitsu.com': (553, b'5.1.3 The recipient address <beachcitiesjiujitsu.com> is not a valid RFC\n5.1.3 5321 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a1e0cc1a2514c-96173afdb54sm10747549241.8 - gsmtp')}
+2026-05-25 14:32:37,891 - INFO - Email enviado com sucesso: blacksheepjiujitsu@gmail.com -> Blacksheepjiu Jitsu report.pdf
+2026-05-25 14:32:42,024 - INFO - Email enviado com sucesso: canvasbjj@gmail.com -> Canvasjiu Jitsu report.pdf
+2026-05-25 14:32:46,328 - INFO - Email enviado com sucesso: Carlsbadjiujitsu@gmail.com -> Carlsbadjiu Jitsu report.pdf
+2026-05-25 14:32:50,410 - INFO - Email enviado com sucesso: cg@graciedalycity.com -> Charlesgraciedalycity report.pdf
+2026-05-25 14:32:54,719 - INFO - Email enviado com sucesso: elkgrovelocation@charlesgracie.com -> Charlesgracieelkgrove report.pdf
+2026-05-25 14:32:58,975 - INFO - Email enviado com sucesso: graciesanbruno@charlesgracie.com -> Charlesgraciesanbruno report.pdf
+2026-05-25 14:33:03,039 - INFO - Email enviado com sucesso: sanjose@claudiofrancabjj.com -> Claudiofrancabjjsanjose report.pdf
+2026-05-25 14:33:07,267 - INFO - Email enviado com sucesso: contact@colhadobrazilianjiujitsu.com -> Colhadobjj report.pdf
+2026-05-25 14:33:11,171 - INFO - Email enviado com sucesso: info@cosmictrainingcenter.com -> Cosmictrainingcenter report.pdf
+2026-05-25 14:33:15,306 - INFO - Email enviado com sucesso: cquencebjj@yahoo.com -> Cquencebjj report.pdf
+2026-05-25 14:33:19,312 - INFO - Email enviado com sucesso: gsbjj.carina@gmail.com -> Deltabjj report.pdf
+2026-05-25 14:33:23,232 - INFO - Email enviado com sucesso: info@empirejiujitsu.com -> Empire Jiu Jitsu report.pdf
+2026-05-25 14:33:27,220 - INFO - Email enviado com sucesso: evolution@evomaa.com -> Evolution Martialartsacademy report.pdf
+2026-05-25 14:33:31,288 - INFO - Email enviado com sucesso: info@exceljiujitsu.com -> Exceljiu Jitsu report.pdf
+2026-05-25 14:33:35,737 - INFO - Email enviado com sucesso: contactus@fiercejiujitsu.com -> Fiercejiu Jitsuacademy report.pdf
+2026-05-25 14:33:39,690 - INFO - Email enviado com sucesso: info@flowstatejj.la -> Flowstatejiu Jitsu La report.pdf
+2026-05-25 14:33:43,958 - INFO - Email enviado com sucesso: info@freedomjiujitsucarlsbad.com -> Freedomjiu Jitsucarlsbad report.pdf
+2026-05-25 14:33:47,972 - INFO - Email enviado com sucesso: bjjreno@msn.com -> Garygratebjjreno report.pdf
+2026-05-25 14:33:50,654 - ERROR - Erro ao enviar para infogbrohnertpark.com: {'infogbrohnertpark.com': (553, b'5.1.3 The recipient address <infogbrohnertpark.com> is not a valid RFC 5321\n5.1.3 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a1e0cc1a2514c-96173afdb54sm10747549241.8 - gsmtp')}
+2026-05-25 14:33:55,221 - INFO - Email enviado com sucesso: info@gbsorrentovalley.com -> Gbsorrentovalley report.pdf
+2026-05-25 14:40:12,438 - INFO - Iniciando processo de envio de emails
+2026-05-25 14:40:16,965 - INFO - Email enviado com sucesso: gino@10PDC.com -> 10pdalycity report.pdf
+2026-05-25 14:40:21,220 - INFO - Email enviado com sucesso: alberttapia10p@gmail.com -> 10th Planet Sacramento report.pdf
+2026-05-25 14:40:25,353 - INFO - Email enviado com sucesso: j.jitzu@gmail.com -> 10th Planetjjcorona report.pdf
+2026-05-25 14:40:29,441 - INFO - Email enviado com sucesso: info@10thplanetsm.com -> 10th Planetsanmateo report.pdf
+2026-05-25 14:40:33,487 - INFO - Email enviado com sucesso: info@mg.allgroundjiujitsu.com -> Allgroundjiu Jitsu report.pdf
+2026-05-25 14:40:37,464 - INFO - Email enviado com sucesso: info@allianceJJsanmarcos.com -> Alliance Bjjsanmarcos report.pdf
+2026-05-25 14:40:41,420 - INFO - Email enviado com sucesso: INFO@ARESBJJROSEVILLE.COM -> Aresbjjroseville report.pdf
+2026-05-25 14:40:45,792 - INFO - Email enviado com sucesso: info@artemistemecula.com -> Artemistemecula report.pdf
+2026-05-25 14:40:49,780 - INFO - Email enviado com sucesso: batatabjj@gmail.com -> Batatabjj Academy report.pdf
+2026-05-25 14:40:54,039 - INFO - Email enviado com sucesso: info@bayjiujitsu.com -> Bayjiu Jitsu report.pdf
+2026-05-25 14:40:56,774 - ERROR - Erro ao enviar para beachcitiesjiujitsu.com: {'beachcitiesjiujitsu.com': (553, b'5.1.3 The recipient address <beachcitiesjiujitsu.com> is not a valid RFC\n5.1.3 5321 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a1e0cc1a2514c-96173af3e82sm10681521241.10 - gsmtp')}
+2026-05-25 14:41:00,772 - INFO - Email enviado com sucesso: blacksheepjiujitsu@gmail.com -> Blacksheepjiu Jitsu report.pdf
+2026-05-25 14:41:04,947 - INFO - Email enviado com sucesso: canvasbjj@gmail.com -> Canvasjiu Jitsu report.pdf
+2026-05-25 14:41:08,937 - INFO - Email enviado com sucesso: Carlsbadjiujitsu@gmail.com -> Carlsbadjiu Jitsu report.pdf
+2026-05-25 14:41:12,918 - INFO - Email enviado com sucesso: cg@graciedalycity.com -> Charlesgraciedalycity report.pdf
+2026-05-25 14:41:16,922 - INFO - Email enviado com sucesso: elkgrovelocation@charlesgracie.com -> Charlesgracieelkgrove report.pdf
+2026-05-25 14:41:20,904 - INFO - Email enviado com sucesso: graciesanbruno@charlesgracie.com -> Charlesgraciesanbruno report.pdf
+2026-05-25 14:41:24,844 - INFO - Email enviado com sucesso: sanjose@claudiofrancabjj.com -> Claudiofrancabjjsanjose report.pdf
+2026-05-25 14:41:29,664 - INFO - Email enviado com sucesso: contact@colhadobrazilianjiujitsu.com -> Colhadobjj report.pdf
+2026-05-25 14:41:33,827 - INFO - Email enviado com sucesso: info@cosmictrainingcenter.com -> Cosmictrainingcenter report.pdf
+2026-05-25 14:41:37,904 - INFO - Email enviado com sucesso: cquencebjj@yahoo.com -> Cquencebjj report.pdf
+2026-05-25 14:41:42,051 - INFO - Email enviado com sucesso: gsbjj.carina@gmail.com -> Deltabjj report.pdf
+2026-05-25 14:41:45,998 - INFO - Email enviado com sucesso: info@empirejiujitsu.com -> Empire Jiu Jitsu report.pdf
+2026-05-25 14:41:50,062 - INFO - Email enviado com sucesso: evolution@evomaa.com -> Evolution Martialartsacademy report.pdf
+2026-05-25 14:41:54,303 - INFO - Email enviado com sucesso: info@exceljiujitsu.com -> Exceljiu Jitsu report.pdf
+2026-05-25 14:41:58,250 - INFO - Email enviado com sucesso: contactus@fiercejiujitsu.com -> Fiercejiu Jitsuacademy report.pdf
+2026-05-25 14:42:02,281 - INFO - Email enviado com sucesso: info@flowstatejj.la -> Flowstatejiu Jitsu La report.pdf
+2026-05-25 14:42:06,370 - INFO - Email enviado com sucesso: info@freedomjiujitsucarlsbad.com -> Freedomjiu Jitsucarlsbad report.pdf
+2026-05-25 14:42:10,367 - INFO - Email enviado com sucesso: bjjreno@msn.com -> Garygratebjjreno report.pdf
+2026-05-25 14:42:13,103 - ERROR - Erro ao enviar para infogbrohnertpark.com: {'infogbrohnertpark.com': (553, b'5.1.3 The recipient address <infogbrohnertpark.com> is not a valid RFC 5321\n5.1.3 address. For more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. a1e0cc1a2514c-96173af3e82sm10681521241.10 - gsmtp')}
+2026-05-25 14:42:17,092 - INFO - Email enviado com sucesso: info@gbsorrentovalley.com -> Gbsorrentovalley report.pdf
+2026-05-25 14:42:21,089 - INFO - Email enviado com sucesso: carlosgomez@bjjandfitness.com -> Gomezjiu Jitsu report.pdf
+2026-05-25 14:42:25,118 - INFO - Email enviado com sucesso: Info.graciebarraroseville@gmail.com -> Gracie Barra Roseville report.pdf
+2026-05-25 14:42:29,279 - INFO - Email enviado com sucesso: info@gbsantarosa.com -> Gracie Barrasantarosa report.pdf
+2026-05-25 14:42:33,491 - INFO - Email enviado com sucesso: alexandre@agjiujitsu.com -> Graciehumaita Reno Sparks report.pdf
+2026-05-25 14:42:37,787 - INFO - Email enviado com sucesso: info@gbjj.org -> Granitebayjiu Jitsu report.pdf
+2026-05-25 14:42:41,830 - INFO - Email enviado com sucesso: sjstaff@guerrillajj.com -> Guerrillajjsanjose report.pdf
+2026-05-25 14:42:45,960 - INFO - Email enviado com sucesso: info@jgacademy.net -> Jgacademy Jiu Jitsu report.pdf
+2026-05-25 14:42:50,038 - INFO - Email enviado com sucesso: professor@jiu-jitsukaizen.com -> Jiu Jitsu Kaizen report.pdf
+2026-05-25 14:42:54,118 - INFO - Email enviado com sucesso: jiujitsuleague@gmail.com -> Jiu Jitsuleague report.pdf
+2026-05-25 14:42:58,234 - INFO - Email enviado com sucesso: INFO@KATALOSANGELES.COM -> Katalosangeles report.pdf
+2026-05-25 14:43:02,272 - INFO - Email enviado com sucesso: info@kuleanajj.com -> Kuleanajj report.pdf
+2026-05-25 14:43:06,221 - INFO - Email enviado com sucesso: info@clubejiujitsu.com -> Legacy Westadams report.pdf
+2026-05-25 14:43:11,466 - INFO - Email enviado com sucesso: info@legionajj.com -> Legion Ajj report.pdf
+2026-05-25 14:43:15,666 - INFO - Email enviado com sucesso: lifebjjreno@gmail.com -> Lifebjjreno report.pdf
+2026-05-25 14:43:19,677 - INFO - Email enviado com sucesso: erick.rvt@hotmail.com -> Loyaltybjj report.pdf
+2026-05-25 14:43:23,717 - INFO - Email enviado com sucesso: info@mn-bjj.com -> Marconascimentobjj report.pdf
+2026-05-25 14:43:28,653 - INFO - Email enviado com sucesso: maxwelldecarvalho@hotmail.com -> Maxwell Brazilian Jiu Jitsu report.pdf
+2026-05-25 14:43:32,823 - INFO - Email enviado com sucesso: mbjjacademy@gmail.com -> Mbjjacademy report.pdf
+2026-05-25 14:43:36,799 - INFO - Email enviado com sucesso: mikedejesusbjj@gmail.com -> Mikedejesusbjj report.pdf
+2026-05-25 14:43:40,995 - INFO - Email enviado com sucesso: Roll@MatTime.com -> Moremattime report.pdf
+2026-05-25 14:43:45,052 - INFO - Email enviado com sucesso: ncfamma@gmail.com -> Ncfamma report.pdf
+2026-05-25 14:43:49,103 - INFO - Email enviado com sucesso: Necallijiujitsu@gmail.com -> Necalli Jiu Jitsu San Jose report.pdf
+2026-05-25 14:43:53,240 - INFO - Email enviado com sucesso: nexusjiujitsu@gmail.com -> Nexus Jiu Jitsu MMA report.pdf
+2026-05-25 14:43:57,459 - INFO - Email enviado com sucesso: nine16jiujitsu@gmail.com -> Nine16jiu Jitsu report.pdf
+2026-05-25 14:49:16,854 - INFO - Iniciando processo de envio de emails
